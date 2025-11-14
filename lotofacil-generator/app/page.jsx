@@ -1,0 +1,1 @@
+export default function Page(){return (<div className='p-4'>Lotofácil Generator - insira o page.jsx completo aqui.</div>);}
